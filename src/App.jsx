@@ -1,6 +1,6 @@
 import React from 'react'
 import HeroSection from './components/HeroSection'
-import Navbar from './components/navbar'
+import Navbar from './components/Navbar'
 import Results from './components/Results'
 import FAQ from './components/FAQ'
 
