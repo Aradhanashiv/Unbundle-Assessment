@@ -9,7 +9,7 @@ const HeroSection = () => {
 
   return (
    <section className='w-full'>
-   <div className="bg-[#F6F3FC] flex flex-col-reverse lg:flex-row items-center justify-center px-6 lg:px-16 py-10 gap-8">
+   <div className="bg-[#F6F3FC] flex flex-col-reverse lg:flex-row items-center justify-center  px-6 lg:px-16 py-10 gap-8">
      <div className='flex flex-col gap-[40px]'>
        <p className="font-bold text-3xl md:text-4xl lg:text-5xl text-[#181C1C]">Invisible Aligners for a dream smile</p>
         <p className='text-lg md:text-xl lg:text-2xl font-medium'>Book a Scan and avail a free<br/>
