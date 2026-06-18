@@ -1,0 +1,31 @@
+  [
+    {
+      "id": 1,
+      "before": "/before3.png",
+      "after": "/after3.png",
+      "concern": "Gaps",
+      "duration": "8 months"
+    },
+    {
+      "id": 2,
+      "before": "/before2.png",
+      "after": "/after2.png",
+      "concern": "Crooked Teeth",
+      "duration": "8 months"
+    },
+    {
+      "id": 3,
+      "before": "/before3.png",
+      "after": "/after3.png",
+      "concern": "Open Bite",
+      "duration": "8 months"
+    },
+    {
+      "id": 4,
+      "before": "/before4.png",
+      "after": "/after4.png",
+      "concern": "Open Bite",
+      "duration": "8 months"
+    }
+
+  ]
