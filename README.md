@@ -1,5 +1,4 @@
-# Dental Landing Page
-
+# Unbundle Assessment
 A responsive React.js + Tailwind CSS landing page built from a Figma design.
 
 ## Features
